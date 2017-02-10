@@ -1,0 +1,25 @@
+{
+  "name": "redisstore",
+  "version": "1.0.0",
+  "description": "Simple Express NodeJS application with REST API and persistent REDIS storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ugallu/redisStore.git"
+  },
+  "keywords": [
+    "redis",
+    "nodejs",
+    "express",
+    "rest"
+  ],
+  "author": "Olah Istvan Gergely",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ugallu/redisStore/issues"
+  },
+  "homepage": "https://github.com/ugallu/redisStore#readme"
+}
